@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Poppins:wght@100;200&display=swap');
+body{
+    background-color: rgb(164, 84, 84);
+}
+
+
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'poppins';
+}
+nav{
+    background-color:antiquewhite;
+    text-align: right;
+    font-family: arial;
+    padding-top: 35px;
+    padding-bottom: 35px;
+   
+}
+
+
+nav a{
+    color: black;
+    padding : 40px;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color:rgb(252, 134, 134);
+    color:rgb(19, 18, 18);
+    padding : 40px;
+}
+
+.login {
+    width: 360px;
+    padding: 0 0 0;
+    margin: auto;
+}
+
+.heading {
+    position: relative;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+.login .form .login {
+    margin-top: -31px;
+    margin-bottom: 26px;
+}
+
+.form {
+    position: relative;
+    z-index: 1;
+    background-image: linear-gradient(#1b1ba9, #ffbbbb);
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 2px 2px 0 0 #d7f3f2;
+}
+
+.form input {
+    font-family: "poppins";
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+.form button {
+    font-family: "poppins";
+    text-transform: uppercase;
+    outline: 0;
+    background-color: #04fff2;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #000000;
+    font-size: 14px;
+    cursor: pointer;
+    position: relative;
+    bottom: -5px;
+}
+
+.login-form .message {
+    font-size: small;
+    color: #000000;
+}
+
+.login-1:hover {
+    background-color: #4ba8a4;
+    position: relative;
+}
+.with{
+    text-decoration: none;
+}
+.table-1 {
+    width: 100%;
+}
+
+.hr-1 {
+    border: solid;
+    color: rgb(255, 0, 0);
+    width: 100%;
+}
+
+.img {
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.img-1:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+
+
+.link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+p{
+    font-family: "poppins";
+    color: white;
+}
+h2{
+    font-family: "poppins";
+    color: white;
+}
